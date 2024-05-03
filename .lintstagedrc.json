@@ -1,0 +1,7 @@
+{
+  "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+    "git add .",
+    "npm test",
+    "prettier --write src/**"
+  ]
+}
